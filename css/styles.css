@@ -1,0 +1,36 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+.container {
+	background-color: yellow;
+	max-width: 800px;
+	height:400px;
+	padding: 20px;
+}
+
+.header  {
+	background-color: green;
+}
+
+.nav {
+	background-color: blue;
+}
+
+.content {
+	background-color: red;
+	width:600px;
+	float: left;
+	
+}
+
+.aside {
+	background-color:#ffffff;
+	width:200px;
+	float: left;
+}
+
+.footer{
+	background-color: #333333;
+	clear: both;
+}
